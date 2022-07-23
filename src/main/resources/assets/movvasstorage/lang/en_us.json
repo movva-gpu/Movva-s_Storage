@@ -1,0 +1,10 @@
+{
+  "item.movvasstorage.powered_amethyst_shard": "Powered Amethyst Shard",
+  "item.movvasstorage.powered_emerald": "Powered Emerald",
+  "item.movvasstorage.small_battery": "Small Battery",
+  "item.movvasstorage.medium_battery": "Medium Battery",
+  "item.movvasstorage.big_battery": "Big Battery",
+  "item.movvasstorage.simple_floppy_disk": "Simple Floppy Disk",
+
+  "itemGroup.ms_main_tab": "Movva's Storage"
+}
