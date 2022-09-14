@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "movvasstorage:block/powered_amethyst_block",
+    "east": "movvasstorage:block/machine_side",
+    "north": "movvasstorage:block/energyzer",
+    "particle": "movvasstorage:block/energyzer",
+    "south": "movvasstorage:block/machine_top",
+    "up": "movvasstorage:block/machine_top",
+    "west": "movvasstorage:block/machine_side"
+  }
+}

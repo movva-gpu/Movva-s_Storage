@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "movvasstorage:block/energyzer",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "movvasstorage:block/energyzer",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "minecraft:block/anvil"
+    },
+    "facing=west": {
+      "model": "movvasstorage:block/energyzer",
+      "y": 90
+    }
+  }
+}

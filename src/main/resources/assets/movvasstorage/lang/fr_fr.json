@@ -6,5 +6,14 @@
   "item.movvasstorage.big_battery": "Grande Batterie",
   "item.movvasstorage.simple_floppy_disk": "Disquette Simple",
 
+  "block.movvasstorage.powered_emerald_block": "Block d'\u00C9meraude \u00C9nergis\u00E9e",
+  "block.movvasstorage.powered_amethyst_block": "Block d'Am\u00E9thyste \u00C9nergis\u00E9",
+  "block.movvasstorage.battery": "Batterie",
+  "block.movvasstorage.energy_cable": "C\u00E2ble d'\u00E9nergie",
+  "block.movvasstorage.fluid_cable": "C\u00E2ble \u00E0 fluide",
+  "block.movvasstorage.energizer": "\u00C9nergiseur",
+  "block.movvasstorage.fluid_catalizer": "Cataliseur de fluides",
+  "block.movvasstorage.fluidizer": "Fluidifieur",
+
   "itemGroup.ms_main_tab": "Movva's Storage"
 }

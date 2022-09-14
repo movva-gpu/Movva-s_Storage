@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "movvasstorage:block/powered_amethyst_block"
+    }
+  }
+}

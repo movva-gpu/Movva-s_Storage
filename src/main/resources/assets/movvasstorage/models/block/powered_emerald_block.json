@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "movvasstorage:block/powered_emerald_block"
+  }
+}

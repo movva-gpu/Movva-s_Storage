@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "movvasstorage:block/battery"
+    },
+    "facing=east": {
+      "model": "movvasstorage:block/battery",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "movvasstorage:block/battery",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "movvasstorage:block/battery",
+      "y": 270
+    }
+  }
+}

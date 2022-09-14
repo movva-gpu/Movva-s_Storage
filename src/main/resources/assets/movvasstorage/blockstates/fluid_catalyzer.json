@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "movvasstorage:block/fluid_catalyzer"
+    }
+  }
+}

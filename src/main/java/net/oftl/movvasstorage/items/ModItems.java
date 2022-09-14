@@ -1,7 +1,5 @@
 package net.oftl.movvasstorage.items;
 
-import com.google.common.eventbus.EventBus;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
